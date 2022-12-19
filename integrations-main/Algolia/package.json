@@ -1,0 +1,11 @@
+{
+  "name": "osws_algolia",
+  "version": "1.0.0",
+  "description": "to get all wines in an a JSON format for algolia",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
