@@ -1,13 +1,9 @@
 # integrations
 Custom Code for TFE Integrations - Yotpo, Rakuten, Algolia , etc. 
 
-## Add any custom script to all web app projects in this repository 
-
-Example:
-
 ## Commerce7
 - Updating Product metadata in bulk
-- Exporting Product Catelog 
+- Exporting Product Catalog 
 
 ## Yotpo 
 - CSS Widget Code for Yotpo Tenant
