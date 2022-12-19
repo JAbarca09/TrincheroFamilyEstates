@@ -17,8 +17,8 @@ Example:
 
 ## Algolia
 - Product Catlog Script
-- https://github.com/TFEWines/integrations/tree/main/Algolia#readme
+<!-- - https://github.com/TFEWines/integrations/tree/main/Algolia#readme -->
 
 ## Rakuten
 - Rakuten Product catalog Script
-- https://github.com/TFEWines/integrations/tree/main/Rakuten#readme
+<!-- - https://github.com/TFEWines/integrations/tree/main/Rakuten#readme -->
